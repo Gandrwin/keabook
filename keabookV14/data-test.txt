@@ -1,0 +1,21 @@
+{
+  "users":{
+    "U1":
+    {
+      "email":"A",
+      "password":"123456",
+      "friends":{"ID989":""},
+      "sentFriendRequests":{"ID5":"","ID2":""},
+      "receivedFriendRequests":{},
+      "products":{
+        "P1":{"name":"A", "price":1}
+        "P2":{"name":"B", "price":2}
+      }
+    }
+  },
+  "products":{
+    "P1":{"userId:"ID1", "userName:"A", "productName":"A", "productPrice":1}
+    "P2":{"userId:"ID1", "userName:"A", "productName":"B", "productPrice":2}
+  }
+}
+

@@ -1,0 +1,31 @@
+{
+  "users": {
+    "U5b9a2a6ead2f9": {
+      "email": "sand@kea.dk",
+      "password": "123456",
+      "friends": {},
+      "sentFriendRequests": {
+      },
+      "receivedFriendRequests": {},
+      "products": {}
+    },
+    "U5b9a2ade9bafd": {
+      "email": "a@a.com",
+      "password": "123456",
+      "friends": {},
+      "sentFriendRequests": {},
+      "receivedFriendRequests": {
+      },
+      "products": {}
+    },
+    "U5b9a2ae727977": {
+      "email": "b@b.com",
+      "password": "123456",
+      "friends": {},
+      "sentFriendRequests": {},
+      "receivedFriendRequests": {},
+      "products": {}
+    }
+  },
+  "products": {}
+}
